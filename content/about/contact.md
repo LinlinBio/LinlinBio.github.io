@@ -1,4 +1,6 @@
----
+<!---
+# 整个contact.md已被注释掉。如需恢复，将第一行的"<!"和最后一行的">"删除。
+
 # An instance of the Contact widget.
 # Documentation: https://docs.hugoblox.com/getting-started/page-builder/
 widget: contact
@@ -27,4 +29,4 @@ content:
 
 design:
   columns: '1'
----
+--->
