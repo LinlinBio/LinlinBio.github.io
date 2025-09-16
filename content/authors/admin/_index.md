@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Linlin Li (李林霖)
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☀️
 
 # Organizations/Affiliations
 #organizations:
@@ -44,13 +44,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: "2022302181021@whu.edu.cn" # For a direct email link, use "mailto:test@example.org".
+  - icon: weixin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: 'someday0425'
+    # link: https://twitter.com/wowchemy
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
