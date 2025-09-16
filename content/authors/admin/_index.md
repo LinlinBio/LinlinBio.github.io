@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
 #- Artificial Intelligence
@@ -47,8 +47,7 @@ social:
     link: "mailto:2022302181021@whu.edu.cn" # For a direct email link, use "mailto:test@example.org".
   - icon: weixin
     icon_pack: fab
-    link: "javascript:void(0);" # 一个空链接，阻止页面跳转
-    onclick: "(() => { const inp = document.createElement('input'); inp.value = 'someday0425'; document.body.appendChild(inp); inp.select(); document.execCommand('copy'); document.body.removeChild(inp); alert('WeChat ID copied: someday0425. Please open WeChat to add.'); })()"
+    link: "javascript:alert('My WeChat ID is: someday0425');"
     # link: https://twitter.com/wowchemy
 # Uncomment below for Github link
 #- icon: github

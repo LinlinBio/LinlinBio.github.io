@@ -1,5 +1,5 @@
 ---
-title: Perfecting Genetic Code Expansion Technique
+title: Perfecting Genetic Code Expansion (GCE) Technique
 summary: 📍Wuhan University, Wuhan, China
 tags:
   - MC

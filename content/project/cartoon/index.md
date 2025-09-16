@@ -1,5 +1,5 @@
 ---
-title: Imperfect Ant-mimicry in a Wolf Spider
+title: Imperfect Ant-mimicry in a Wolf Spider Species
 summary: 📍Hubei University, Wuhan, China
 tags:
   - EZ

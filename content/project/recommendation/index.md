@@ -1,5 +1,5 @@
 ---
-title: CCB02 Inhibits Oocyte Meiosis
+title: CCB02 Inhibits Mouse Oocyte Meiosis
 summary: 📍National Institute of Biological Sciences, Beijing, China
 tags:
   - D
