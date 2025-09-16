@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: CCB02 Inhibits Oocyte Meiosis
+summary: 📍National Institute of Biological Sciences, Beijing, China
 tags:
-  - ML
+  - D
 date: 2022-01-01
 external_link: http://github.com
 ---

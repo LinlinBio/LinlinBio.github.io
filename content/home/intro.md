@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+Good day! This is **Linlin**, an undergraduate student majoring in Biological Sciences at Wuhan University, China.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](/about/) and portfolio below 😍
+You can check out my [resumé](/about/) and research portfolio below 😊

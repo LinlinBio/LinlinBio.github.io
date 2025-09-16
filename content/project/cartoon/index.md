@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Imperfect Ant-mimicry in a Wolf Spider
+summary: 📍Hubei University, Wuhan, China
 tags:
-  - CV
+  - EZ
 date: 2022-01-01
 external_link: http://github.com
 ---
