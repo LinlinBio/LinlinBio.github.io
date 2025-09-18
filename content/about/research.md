@@ -30,6 +30,11 @@ experience:
     date_start: '2025-07-01'
     date_end: '2025-08-01'
     description: |2-
+        123
+        
+        * 1
+        * 2
+
 
   - title: Perfecting Genetic Code Expansion (GCE) Technique
     company: Wuhan University
@@ -39,6 +44,10 @@ experience:
     date_start: '2024-09-01'
     date_end: '2025-06-01'
     description: |2-
+        123
+        
+        * 1
+        * 2
 
   - title: Imperfect Ant-mimicry in a Wolf Spider Species
     company: Hubei University
@@ -48,6 +57,10 @@ experience:
     date_start: '2023-07-01'
     date_end: ''
     description: |2-
+        123
+        
+        * 1
+        * 2
 
 design:
   columns: '1'
