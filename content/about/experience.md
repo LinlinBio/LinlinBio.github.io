@@ -22,28 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+
+  - title: Intern
+    company: Chinese Center for Disease Control and Prevention
+    company_url: https://en.chinacdc.cn/
+    company_logo: org-cdc
+    location: Beijing, China
+    date_start: '2025-07-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Responsibilities in the Viral Hepatitis Department includ:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Nucleic acid testing for HEV in human serum
+        * Antibody testing for HAV in human serum
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Intern
+    company: Fosun Pharmaceutical
+    company_url: https://www.fosunpharma.com/en/
+    company_logo: org-fosun
+    location: Beijing, China
+    date_start: '2023-01-01'
+    date_end: '2023-02-01'
+    description: |2-
+        Responsibilities in the Marketing Department include:
+        
+        * Daily administrative and meeting support
+        * Market research and competitive analysis
+        * Product learning and policy interpretation
 
 design:
   columns: '1'
