@@ -41,7 +41,7 @@ experience:
         For all specialized courses:
         * GPA = 3.89/4.0; Average Score = 90.56/100
         
-        English Proficiency:
+        English proficiency:
         * CET-6 Score: 657 (top 1% of all test takers)
         * TOEFL iBT Score: 106
 
