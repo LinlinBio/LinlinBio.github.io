@@ -25,8 +25,8 @@ experience:
   - title: Biological Sciences
     company: Wuhan University
     company_url: ''
-    company_logo: org-x
-    location: California
+    company_logo: WHU
+    location: Wuhan, China
     date_start: '2022-09-01'
     date_end: '2026-06-30'
     description: |2-

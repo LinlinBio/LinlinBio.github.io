@@ -21,4 +21,4 @@ author: admin
 Good day! This is **Linlin**, an undergraduate student majoring in Biological Sciences at Wuhan University, China.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-You can check out my [resumé](/about/) 👈 and research portfolio below 👇
+You can check out my [resumé](/about/) 👈 and research projects below 👇
