@@ -29,12 +29,26 @@ experience:
     company_logo: org-cdc
     location: Beijing, China
     date_start: '2025-07-01'
-    date_end: ''
+    # date_end: ''
     description: |2-
-        Responsibilities in the Viral Hepatitis Department includ:
+        Responsibilities in the Viral Hepatitis Department include:
         
         * Nucleic acid testing for HEV in human serum
         * Antibody testing for HAV in human serum
+
+  - title: Teaching Assistant
+    company: College of Life Sciences, Wuhan University
+    company_url: https://bio.whu.edu.cn/en.htm
+    company_logo: org-whu
+    location: Wuhan, China
+    date_start: '2024-09-01'
+    date_end: '2025-06-30'
+    description: |2-
+        Responsibilities for the compulsory courses "Cell Biology" and "Genetics" include:
+        
+        * In-class attendance tracking and Q&A sessions
+        * Organization and evaluation of group presentations
+        * Exams and quizzes design and grading
 
   - title: Intern
     company: Fosun Pharmaceutical

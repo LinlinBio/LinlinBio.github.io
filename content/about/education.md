@@ -24,15 +24,23 @@ date_format: Jan 2006
 experience:
   - title: Biological Sciences
     company: Wuhan University
-    company_url: ''
+    company_url: https://en.whu.edu.cn/
     company_logo: org-whu
     location: Wuhan, China
     date_start: '2022-09-01'
     date_end: '2026-06-30'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        For all courses:
+        * GPA = 3.64/4.0
+        * Average Score = 87.77/100
+
+        For all major-specific courses:
+        * GPA = 3.89/4.0
+        * Average Score = 90.56/100
+        
+        English Proficiency:
+        * CET-6 Score: 657 (Top 1% of all test takers)
+        * TOEFL iBT Score: 106
 
 design:
   columns: '1'
