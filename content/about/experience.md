@@ -29,7 +29,7 @@ experience:
     company_logo: org-cdc
     location: Beijing, China
     date_start: '2025-07-01'
-    # date_end: ''
+    date_end: '2025-07-01'
     description: |2-
         Responsibilities in the Viral Hepatitis Department include:
         
