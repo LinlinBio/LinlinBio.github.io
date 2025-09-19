@@ -4,5 +4,5 @@ summary: 📍Hubei University, Wuhan, China
 tags:
   - EZ
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://linlinbio-project-spider.netlify.app/
 ---

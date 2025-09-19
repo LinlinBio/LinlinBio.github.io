@@ -30,7 +30,8 @@ experience:
     date_start: '2022-09-01'
     date_end: '2026-06-30'
     description: |2-
-        Wuhan University is a top-10 university in China with a strong program in Biological Sciences. Linlin is jointly cultivated by the Hongyi Honor College and the College of Life Sciences. As a national base for training top students in fundamental disciplines, Hongyi Honor College features an undergraduate program with the following characteristics:
+        Wuhan University is one of the top universities in China (ranked no. 9 in China and no. 186 worldwide, QS 2026) with a strong program in Biological Sciences (ranked no. 132 worldwide, QS 2025).
+        Linlin is jointly cultivated by the Hongyi Honor College and the College of Life Sciences. As a national base for training top students in fundamental disciplines, Hongyi Honor College features an undergraduate program with the following characteristics:
         * All specialized compulsory courses are taught and assessed exclusively in English
         * Research-oriented small class courses are offered, such as the Hongyi Seminar
         * Mathematics and physics courses are taught and assessed at the highest difficulty level (Tier A)

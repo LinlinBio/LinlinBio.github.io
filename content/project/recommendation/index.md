@@ -4,5 +4,5 @@ summary: 📍National Institute of Biological Sciences, Beijing, China
 tags:
   - D
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://linlinbio-project-oocyte.netlify.app/
 ---

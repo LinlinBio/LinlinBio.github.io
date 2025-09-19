@@ -4,5 +4,5 @@ summary: 📍Wuhan University, Wuhan, China
 tags:
   - MC
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://linlinbio-project-gce.netlify.app/
 ---
