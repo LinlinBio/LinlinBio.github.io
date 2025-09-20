@@ -30,10 +30,8 @@ experience:
     date_start: '2025-07-01'
     date_end: '2025-08-01'
     description: |2-
-        123
-        
-        * 1
-        * 2
+        This study examined the effects of CCB02, a small molecule that binds the CPAP-binding site on tubulin, during mouse oocyte meiosis. We found that CCB02 impairs spindle assembly and delays meiotic progression in a dose-dependent manner, revealing its impact on centrosome-independent spindle organization in oocytes.
+        [🔗 Read the full study](https://linlinbio-project-oocyte.netlify.app/)
 
 
   - title: Perfecting Genetic Code Expansion (GCE) Technique
@@ -48,6 +46,7 @@ experience:
         
         * 1
         * 2
+        [🔗 Read the full study](https://linlinbio-project-gce.netlify.app/)
 
   - title: Imperfect Ant-mimicry in a Wolf Spider Species
     company: Hubei University
@@ -61,6 +60,7 @@ experience:
         
         * 1
         * 2
+        [🔗 Read the full study](https://linlinbio-project-spider.netlify.app/)
 
 design:
   columns: '1'
