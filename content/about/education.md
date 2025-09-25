@@ -33,9 +33,11 @@ experience:
         [**Wuhan University**](https://en.whu.edu.cn/) is one of the top universities in China (ranked no. 9 in China and no. 186 worldwide, QS 2026) with a strong program in Biological Sciences (ranked no. 132 worldwide, QS 2025).
         * For all courses: GPA = **3.64/4.0**; Average Score = **87.77/100**
         * For all specialized courses: GPA = **3.89/4.0**; Average Score = **90.56/100**
+        
         English proficiency:
         * CET-6 Score: **657** (top 1% of all test takers)
         * TOEFL iBT Score: **106**
+        
         Linlin is jointly cultivated by [**Hongyi Honor College**](https://hyxt.whu.edu.cn/) and [**College of Life Sciences**](https://bio.whu.edu.cn/en.htm). As a national base for training top students in fundamental disciplines, Hongyi Honor College features an undergraduate program with the following characteristics:
         * All specialized compulsory courses are taught and assessed exclusively in English
         * Research-oriented small class courses are offered, such as the Hongyi Seminar

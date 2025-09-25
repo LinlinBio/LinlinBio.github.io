@@ -42,10 +42,7 @@ experience:
     date_start: '2024-09-01'
     date_end: '2025-06-01'
     description: |2-
-        123
-        
-        * 1
-        * 2
+        This study develops a novel eukaryotic expression system that selectively eliminates truncated proteins arising from genetic code expansion (GCE) while preserving full-length products. By integrating an N-terminal degron, a C-terminal localization tag, and a split TEV protease, the system increases full-length protein yield by 1.4-fold, reduces truncations by 4.6-fold, and can be tuned via small molecules or alternative localization signals, thereby enhancing the efficiency of GCE for protein engineering and live-cell imaging.
         [🔗 Read the full study](https://linlinbio-project-gce.netlify.app/)
 
   - title: Imperfect Ant-mimicry in a Wolf Spider Species
