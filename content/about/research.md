@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Paediatric Immune Cell Atlas
+    company: University of Queensland
+    company_url: https://www.uq.edu.au/
+    company_logo: org-uq
+    location: Brisbane, Australia
+    date_start: '2025-10-01'
+    date_end: ''
+    description: |2-
+        I am currently a visiting research student at the Centre for Children’s Health Research, The University of Queensland. My graduation thesis focuses on generating scRNA-seq data from clinical immune cells, combined with computational benchmarking and comparison of different single-cell technologies.
+
   - title: CCB02 Inhibits Mouse Oocyte Meiosis
     company: National Institute of Biological Sciences
     company_url: http://nibs.ac.cn/en/
@@ -53,10 +63,7 @@ experience:
     date_start: '2023-07-01'
     date_end: ''
     description: |2-
-        123
-        
-        * 1
-        * 2
+        This study investigates how the wolf spider *Arctosa kiangsiensis* changes its ant-mimicking behavior across development. Juveniles mimic small ants (*Pristomyrmex punctatus*), while adults mimic larger ants (*Formica cunicularia*). Using locomotion tracking, visual modeling, and predation assays with chicks, we show that spiders closely match the movement and appearance of co-occurring ants in a stage-specific manner. This integrated strategy—including locomotor mimicry, transformational mimicry, and background camouflage—reduces predation risk and enhances survival, revealing a sophisticated ontogenetic anti-predator adaptation.
         [🔗 Read the full study](https://linlinbio-project-spider.netlify.app/)
 
 design:

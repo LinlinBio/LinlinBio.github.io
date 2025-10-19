@@ -44,7 +44,7 @@ experience:
     date_start: '2024-09-01'
     date_end: '2025-06-30'
     description: |2-
-        Responsibilities for the compulsory courses "Cell Biology" and "Genetics" include:
+        Responsibilities for the compulsory courses "**Cell Biology**" and "**Genetics**" include:
         
         * In-class attendance tracking and Q&A sessions
         * Organization and evaluation of group presentations

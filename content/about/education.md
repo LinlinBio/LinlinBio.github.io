@@ -40,8 +40,10 @@ experience:
         
         Linlin is jointly cultivated by [**Hongyi Honor College**](https://hyxt.whu.edu.cn/) and [**College of Life Sciences**](https://bio.whu.edu.cn/en.htm). As a national base for training top students in fundamental disciplines, Hongyi Honor College features an undergraduate program with the following characteristics:
         * All specialized compulsory courses are taught and assessed exclusively in English
+        * Mathematics and physics courses are assessed at the highest difficulty level (Tier A)
         * Research-oriented small class courses are offered, such as the Hongyi Seminar
-        * Mathematics and physics courses are taught and assessed at the highest difficulty level (Tier A)
+        * In addition to the senior-year graduation thesis, students are also required to complete a one-year research training project and thesis during their junior year.
+        
 design:
   columns: '1'
 ---
