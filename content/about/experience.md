@@ -29,7 +29,7 @@ experience:
     company_logo: org-cdc
     location: Beijing, China
     date_start: '2025-07-01'
-    date_end: '2025-07-01'
+    date_end: '2025-07-30'
     description: |2-
         Responsibilities in the Viral Hepatitis Department include:
         
@@ -44,11 +44,31 @@ experience:
     date_start: '2024-09-01'
     date_end: '2025-06-30'
     description: |2-
-        Responsibilities for the compulsory courses "**Cell Biology**" and "**Genetics**" include:
+        Responsibilities for the required courses "**Cell Biology**" and "**Genetics**" include:
         
         * In-class attendance tracking and Q&A sessions
         * Organization and evaluation of group presentations
         * Exams and quizzes design and grading
+
+  - title: Participant
+    company: Yunnan University
+    company_url: http://english.ynu.edu.cn/
+    company_logo: org-ynu
+    location: Gaoligong Mountain (Baoshan section), China
+    date_start: '2024-07-01'
+    date_end: '2024-07-30'
+    description: |2-
+        Fieldwork project "Background Resource Survey of Protected Plants in Gaoligong Mountain".
+
+  - title: Participant
+    company: Wuhan University
+    company_url: https://en.whu.edu.cn/
+    company_logo: org-whu
+    location: Shennongjia Forestry District, China
+    date_start: '2023-06-01'
+    date_end: '2023-07-01'
+    description: |2-
+        Fieldwork project "Exploring the Variation of *Erigeron annuus* Morphology in Hongping Township".
 
   - title: Intern
     company: Fosun Pharmaceutical
@@ -63,6 +83,7 @@ experience:
         * Daily administrative and meeting support
         * Market research and competitive analysis
         * Product learning and policy interpretation
+
 
 design:
   columns: '1'
