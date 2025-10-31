@@ -38,7 +38,7 @@ experience:
         * CET-6 Score: **657** (top 1% of all test takers)
         * TOEFL iBT Score: **106**
         
-        Linlin is jointly cultivated by [**Hongyi Honor College**](https://hyxt.whu.edu.cn/) and [**College of Life Sciences**](https://bio.whu.edu.cn/en.htm). As a national base for training top students in fundamental disciplines, Hongyi Honor College features an undergraduate program with the following characteristics:
+        Linlin is jointly cultivated by [**College of Life Sciences**](https://bio.whu.edu.cn/en.htm) and [**Hongyi Honor College**](https://hyxt.whu.edu.cn/). As a national base for training top students in fundamental disciplines, Hongyi Honor College features an undergraduate program with the following characteristics:
         * All required major courses are taught and assessed exclusively in English
         * Mathematics and physics courses are assessed at the highest difficulty level (Tier A)
         * Research-oriented small class courses are offered, such as the Hongyi Seminar
